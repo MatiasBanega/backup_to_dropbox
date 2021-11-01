@@ -16,7 +16,7 @@ Pre-Requirement
 ============
 
 > Install dropbox python library
-pip install dropbox
+'pip install dropbox'
 
 Installation
 ============
